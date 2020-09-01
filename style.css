@@ -1,0 +1,128 @@
+body {
+    margin: auto;
+    background: black;
+}
+
+.all {
+    width: 1200px;
+    height: 1370px;
+    margin: auto;
+    background: white;
+
+}
+
+.logo {
+    font-size: 25px;
+    padding: 4px 11px;
+    color: #222222;
+    font-family: Calibri;
+    width: 100px;
+    background: #FF4800;
+    border-radius: 10px;
+    border: 2px solid green;
+    box-shadow: 0px 4px 8px 0px rgb(0 0 0);
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+.img_size img {
+    width: 300px;
+    height: 200px;
+}
+
+.img_margin img {}
+
+.text_color {
+    color: red;
+}
+
+.img_margin {
+    text-align: center;
+
+
+}
+
+.img_size {
+    background: #EEEEEE;
+    padding: 15px;
+    margin: 10px;
+}
+
+.right_icone {
+    float: right;
+    font-size: 46px;
+    margin-top: -170px;
+}
+
+.email_password_button {
+    width: 1200px;
+    height: 80px;
+    background: black;
+    padding-left: 200px;
+}
+
+.email {
+    width: 300px;
+    height: 40px;
+    background: #4C4C4C;
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-top: 18px;
+    float: left;
+}
+
+.button {
+    width: 100px;
+    height: 40px;
+    background: #FB1F43;
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 60px;
+    margin-top: 18px;
+    float: left;
+}
+
+
+.futter{
+    width: 1200px;
+    margin: auto;
+    height: 200px;
+    background: #474747;
+}
+.futter_center{
+    width: 1200px;
+    height: 250px;
+    margin: auto;
+    background: #474747;
+}
+
+.futter_content{
+    float: left;
+    padding-left: 80px;
+   margin: 20px;
+    color: white;
+}
+
+.futter_content i{
+    padding-left: 10px;
+    font-size: 35px;
+    margin-top: 26px;
+}
+.futter_center h3{
+    padding-bottom: 15px;
+}
+.futter_bottom{
+    width: 1200px;
+    height: 50px;
+    background: #474747;
+    margin-top: -16px;
+    color: white;
+}
+.futter_bottom p{
+   text-align: center; 
+}
+
+
